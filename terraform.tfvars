@@ -1,0 +1,7 @@
+server_location         = "westus2"
+server_rg               = "xoriet-RG"
+resource_prefix         = "web_server"
+server_address_space    = "1.0.0.0/22"
+server_address_prefix   = "1.0.1.0/24"
+server_name             = "web-01"
+environment             = "production"
